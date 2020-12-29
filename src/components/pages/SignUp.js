@@ -6,7 +6,7 @@ function SignUp(){
     return(
     <>
    
-
+<h1>hi there</h1>
     
     </>
     
